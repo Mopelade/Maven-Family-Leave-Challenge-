@@ -38,4 +38,23 @@ I worked on a dataset from 1,601 companies across different industries, includin
 ## Insight
 
 * The average maternity  leave is appromximately 11 weeks, while paternity leave is 7 weeks.
-* New fathers hardly get 
+* New fathers are hardly offered paid paternity leave, 1291 less than paid maternity leave.
+
+## How lack or less paternity leaves affect businesses and working fathers 
+
+* Negative impact on employee morale and productivity: Fathers who are not given time off to bond with their newborns may experience stress and reduced productivity, which can impact the overall morale and productivity of the workplace.
+
+* Difficulty in recruiting and retaining employees: Companies that do not offer paternity leave may struggle to attract and retain top talent, particularly if their competitors offer better benefits packages.
+
+* Perception of unfairness and inequality: The lack of paternity leave can be perceived as unfair and can contribute to gender inequality in the workplace. This may be particularly true if the company offers maternity leave, but not paternity leave.
+
+* Impact on family dynamics: Fathers who are unable to take time off to bond with their newborns may miss out on important family moments and may feel less connected to their children and partners.
+
+* Potential legal risks: In some countries, failure to offer paternity leave may be a violation of labor laws, which can result in legal action against the company.
+
+Overall, not offering paternity leave can have a negative impact on employee morale, recruitment and retention, gender equality, family dynamics, and may even pose legal risks for the company.
+
+
+
+
+
