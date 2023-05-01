@@ -18,4 +18,9 @@ I worked on a dataset from 1,601 companies across different industries, includin
 * The Top Industries that Offer paid Leave 
 * Top Industies that offer unpaid leave 
 * Top three companies that offer paid leave 
-*
+
+## Findings 
+
+* The top comapanies with the most companies are Grant Thornton as it offer 51 weeks paid leave for both new mothers and fathers, follows by LAC Group, which offer 35 weeks paid leave to new fathers and 33 weeks paid leave to new mothers.Lastly Flatiron Health, Offers 30 weeks paid leave for both new mothers and fathers.
+* Finance Industry tops the chart for the industry the offer the most paid leave, The average paid leave is 16 weeks long , follows by technology Industry, which offers 15 weeks paid leave on an average.
+* Top Industies that offer unpaid leave are printing Industy , Pharmacies and drug stores. Printing Industry offers 40 weeks unpaid leave for both new mothers and fathers on an average while Pharmacies and drugstore offers 14 weeks unpaid leave on an average 
