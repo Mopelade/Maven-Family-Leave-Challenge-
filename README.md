@@ -35,3 +35,7 @@ I worked on a dataset from 1,601 companies across different industries, includin
 
 * 257 out of 1600 companies offer paid paternity leave, accounting for the 9.15% of the total number of companies, and out of the 257 leaves 11.44% are below  ILO  14 weeks leave recommendation.
 
+## Insight
+
+* The average maternity  leave is appromximately 11 weeks, while paternity leave is 7 weeks.
+* New fathers hardly get 
